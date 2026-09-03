@@ -1,9 +1,9 @@
 {
   "app": "FuoriGioco",
   "platform": "android",
-  "version": "1.3.1",
-  "versionCode": 5,
+  "version": "1.4.0",
+  "versionCode": 6,
   "file": "downloads/FuoriGioco-latest.apk",
-  "sha256": "C6C42EE571681D21AD54794F99A7F9A501A92C9F1AA63B58C68086D4B5C5AE8A",
-  "publishedAt": "2026-09-03"
+  "sha256": "F3E5CA64993379ACB4AAD4055EE8A7833CC948084829B41EADE3589AE11FEBB3",
+  "publishedAt": "2026-09-04"
 }

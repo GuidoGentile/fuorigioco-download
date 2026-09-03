@@ -4,7 +4,7 @@ Repository pubblico per i pacchetti installabili ufficiali di FuoriGioco.
 
 ## Ultima versione
 
-- Versione: **1.3.1**
+- Versione: **1.4.0**
 - Piattaforma: **Android**
 - Pacchetto: **APK firmato**
 - [Scarica FuoriGioco per Android](https://raw.githubusercontent.com/GuidoGentile/fuorigioco-download/main/downloads/FuoriGioco-latest.apk)
@@ -13,9 +13,9 @@ Repository pubblico per i pacchetti installabili ufficiali di FuoriGioco.
 
 SHA-256:
 
-`C6C42EE571681D21AD54794F99A7F9A501A92C9F1AA63B58C68086D4B5C5AE8A`
+`F3E5CA64993379ACB4AAD4055EE8A7833CC948084829B41EADE3589AE11FEBB3`
 
-> Nota: la versione 1.3.1 usa la nuova firma. Chi ha installato una versione precedente deve disinstallarla prima di installare questo APK.
+> La versione 1.4.0 mantiene la stessa firma della 1.3.1 e può essere installata direttamente come aggiornamento.
 
 Per installare l'APK potrebbe essere necessario autorizzare temporaneamente l'installazione da questa sorgente nelle impostazioni Android.
 
